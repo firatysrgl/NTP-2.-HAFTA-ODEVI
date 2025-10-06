@@ -10,10 +10,10 @@ Bu proje **sadece eğitim ve araştırma amaçlıdır** — kişisel verileri il
 
 ## 📹 Demonstration Video / Tanıtım Videosu  
 Watch the detailed explanation and demonstration on YouTube:  
-👉 [**YouTube Video Link**](<!-- YOUTUBE LINK BURAYA -->)  
+👉 [**YouTube Video Link**] ( https://youtu.be/--P0N92EJ64 )
 
 YouTube üzerinden detaylı anlatım ve gösterim için:  
-👉 [**YouTube Video Linki**](<!-- YOUTUBE LINK BURAYA -->)  
+👉 [**YouTube Video Linki**] ( https://youtu.be/--P0N92EJ64 )
 
 ---
 
