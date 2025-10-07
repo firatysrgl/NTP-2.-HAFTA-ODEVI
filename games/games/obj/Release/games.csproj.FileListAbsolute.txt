@@ -1,0 +1,14 @@
+C:\Users\FIRAT YUNUS\source\repos\games\games\bin\Release\games.exe.config
+C:\Users\FIRAT YUNUS\source\repos\games\games\bin\Release\games.exe
+C:\Users\FIRAT YUNUS\source\repos\games\games\bin\Release\games.pdb
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Release\games.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Release\games.Properties.Resources.resources
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Release\games.csproj.GenerateResource.cache
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Release\games.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Release\games.exe
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Release\games.pdb
+C:\Users\FIRAT YUNUS\source\repos\games\games\bin\Release\games.exe.manifest
+C:\Users\FIRAT YUNUS\source\repos\games\games\bin\Release\games.application
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Release\games.exe.config
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Release\games.exe.manifest
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Release\games.application

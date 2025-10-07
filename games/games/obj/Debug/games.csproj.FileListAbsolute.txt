@@ -1,0 +1,10 @@
+C:\Users\FIRAT YUNUS\source\repos\games\games\bin\Debug\games.exe.config
+C:\Users\FIRAT YUNUS\source\repos\games\games\bin\Debug\games.exe
+C:\Users\FIRAT YUNUS\source\repos\games\games\bin\Debug\games.pdb
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Debug\games.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Debug\games.Properties.Resources.resources
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Debug\games.csproj.GenerateResource.cache
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Debug\games.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Debug\games.exe
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Debug\games.pdb
+C:\Users\FIRAT YUNUS\source\repos\games\games\obj\Debug\games.exe.config
